@@ -6,10 +6,10 @@ const PROFILE = {
 
   // Enlaces (rellena con tus datos reales)
   instagramUser: "valentinklint",              // sin @
-  phoneIntl: "+34 600 000 000",                // con + y espacios si quieres
-  phoneE164: "34600000000",                    // solo números, sin + ni espacios (para WhatsApp y tel:)
-  email: "hello@valentinklint.com",
-  website: "https://valentinklint.com",
+  phoneIntl: "+34 654 663 043",                // con + y espacios si quieres
+  phoneE164: "34654663043",                    // solo números, sin + ni espacios (para WhatsApp y tel:)
+  email: "groegervalentin@gmail.com",
+  website: "https://businessbots.org",
 
   // Mensaje por defecto para WhatsApp
   waMessage: "Hola%20Valent%C3%ADn%2C%20te%20contacto%20desde%20tu%20tarjeta%20digital.%20%F0%9F%91%8B",
